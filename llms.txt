@@ -1,0 +1,26 @@
+# Junaid Hassan
+
+> Expert Shopify & Shopify Plus developer and consultant with 10+ years of
+> full-stack e-commerce development experience.
+
+Junaid Hassan builds custom Shopify and Shopify Plus storefronts, leads
+Online Store 1.0 → 2.0 and cross-platform migrations onto Shopify, and
+develops custom Shopify Checkout Extensions, custom/public Shopify apps, and
+the middleware that connects them to inventory, marketing, and support
+systems. Additional depth in React.js, Angular, Vue.js, Nest.js, and Ruby on
+Rails.
+
+## Core capabilities
+- Custom Shopify & Shopify Plus theme development, from scratch
+- Online Store 1.0 → 2.0 theme migrations
+- Cross-platform migrations onto Shopify
+- Shopify Checkout Extensions
+- Custom & public Shopify app development
+- Middleware & third-party integrations (Recharge, Klaviyo, inventory
+  systems, WhatsApp, push notifications, email automation, product feeds,
+  SSO)
+
+## Contact
+- Email: junaidhassan2010@gmail.com
+- LinkedIn: https://linkedin.com/in/junaid-hassan-dev
+- Location: Lahore, Pakistan (works remotely with clients worldwide)
